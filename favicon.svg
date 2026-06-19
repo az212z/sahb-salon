@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="صالون سحب">
+  <rect width="64" height="64" rx="14" fill="#2E2A2B"/>
+  <path d="M20 42c0-7 5-10 12-10s12 3 12 10" fill="none" stroke="#E7B9A8" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="32" cy="24" r="8.5" fill="none" stroke="#D9B26A" stroke-width="3.4"/>
+  <circle cx="32" cy="24" r="2.6" fill="#E7B9A8"/>
+</svg>
